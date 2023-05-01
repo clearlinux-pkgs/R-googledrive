@@ -5,7 +5,7 @@
 #
 Name     : R-googledrive
 Version  : 2.1.0
-Release  : 9
+Release  : 10
 URL      : https://cran.r-project.org/src/contrib/googledrive_2.1.0.tar.gz
 Source0  : https://cran.r-project.org/src/contrib/googledrive_2.1.0.tar.gz
 Summary  : An Interface to Google Drive
